@@ -48,3 +48,5 @@ Thank you for visiting my repository!
 ## Day 2
 
 This update is made from the dev branch.
+
+This is 2 commit in dev branch.
