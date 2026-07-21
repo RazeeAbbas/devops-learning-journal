@@ -45,3 +45,5 @@ Thank you for visiting my repository!
 ## Day 2
 
 This update is made from the testing branch.
+
+This is 2 commit.
