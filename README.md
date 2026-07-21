@@ -35,3 +35,24 @@ I am learning DevOps.
 ---
 
 Thank you for visiting my repository!
+
+
+
+
+
+
+
+
+# DevOps Learning Journal
+
+## Day 2
+
+This update is made from the dev branch.
+
+This is 2 commit in dev branch.
+
+This is 3 commit in dev branch.
+
+This is 4 commit in dev branch.
+
+This is 5 commit in dev branch.
