@@ -40,16 +40,14 @@ Thank you for visiting my repository!
 
 
 
+### Day 2
 
+Branch sqa This update is made from the sqa branch.
 
-## Day 2
+This is 2 commit in sqa branch.
 
-This update is made from the testing branch.
+This is 3 commit in sqa branch.
 
-This is 2 commit.
+This is 4 commit in sqa branch.
 
-This is 3 commit
-
-This is 4 commit
-
-This is 5 commit
+This is 5 commit in sqa branch.
