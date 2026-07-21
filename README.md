@@ -42,12 +42,4 @@ Thank you for visiting my repository!
 
 ### Day 2
 
-Branch sqa This update is made from the sqa branch.
-
-This is 2 commit in sqa branch.
-
-This is 3 commit in sqa branch.
-
-This is 4 commit in sqa branch.
-
-This is 5 commit in sqa branch.
+Create Branches.
