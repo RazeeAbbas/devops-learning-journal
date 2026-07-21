@@ -35,3 +35,16 @@ I am learning DevOps.
 ---
 
 Thank you for visiting my repository!
+
+
+
+
+
+
+
+
+# DevOps Learning Journal
+
+## Day 2
+
+This update is made from the dev branch.
